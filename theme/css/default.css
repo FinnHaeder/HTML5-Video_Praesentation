@@ -804,54 +804,8 @@ slide.fill {
   background-size: cover;
 }
 
-/* Size variants */
-/* line 535, ../scss/default.scss */
-article.smaller p, article.smaller ul {
-  font-size: 20px;
-  line-height: 24px;
-  letter-spacing: 0;
-}
-/* line 541, ../scss/default.scss */
-article.smaller table td, article.smaller table th {
-  font-size: 14px;
-}
-/* line 545, ../scss/default.scss */
-article.smaller pre {
-  font-size: 15px;
-  line-height: 20px;
-  letter-spacing: 0;
-}
-/* line 550, ../scss/default.scss */
-article.smaller q {
-  font-size: 40px;
-  line-height: 48px;
-}
-/* line 554, ../scss/default.scss */
-article.smaller q:before, article.smaller q:after {
-  font-size: 60px;
-}
 
-/* Builds */
-/* line 563, ../scss/default.scss */
-.build > * {
-  -webkit-transition: opacity 0.5s ease-in-out;
-  -webkit-transition-delay: 0.2s;
-  -moz-transition: opacity 0.5s ease-in-out 0.2s;
-  -o-transition: opacity 0.5s ease-in-out 0.2s;
-  transition: opacity 0.5s ease-in-out 0.2s;
-}
-/* line 567, ../scss/default.scss */
-.build .to-build {
-  opacity: 0;
-}
-/* line 571, ../scss/default.scss */
-.build .build-fade {
-  opacity: 0.3;
-}
-/* line 574, ../scss/default.scss */
-.build .build-fade:hover {
-  opacity: 1.0;
-}
+
 
 /* line 581, ../scss/default.scss */
 .popup .next .build .to-build {

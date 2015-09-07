@@ -1,7 +1,7 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Präsentation zur Video Einbettung in HTML5',
+    title: 'Präsentation zur Einbindung von Videos in HTML5',
     //eventInfo: {
     //  title: 'Google I/O',
     //  date: '6/x/2013'
